@@ -1,0 +1,13 @@
+job,marital,education,default,housing,loan,contact,month,poutcome,y
+admin,divorced,primary,no,no,no,cellular,jan,failure,no
+blue_collar,married,secondary,yes,yes,yes,telephone,feb,other,yes
+entrepreneur,single,tertiary,,,,unknown,mar,success,
+housemaid,,unknown,,,,,apr,unknown,
+management,,,,,,,may,,
+retired,,,,,,,jun,,
+self_employed,,,,,,,jul,,
+services,,,,,,,aug,,
+student,,,,,,,sep,,
+technician,,,,,,,oct,,
+unemployed,,,,,,,nov,,
+unknown,,,,,,,dec,,
